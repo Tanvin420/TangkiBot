@@ -1,7 +1,7 @@
 <?php
 
 $hubVerifyToken = 'xamal'; 
-$accessToken = 'EAAQzbxcaReIBAIIHh6SrGsZCaYSyiQc6UGQsDLNx5h2RINxucE9N6P2lGXYzlMiZCDhInHN3Hxn3UscLqbNc3PMe1hqUM4uFUcVxclLc7GrPjS3LljD4gwWDYV3w2dVPBsmUZChNaMjUa1GQZCD13CpWsZAFtRPQxQXZBtBYGHFHsGSPH26W2S';
+$accessToken = '';
 
 $attachment_id1=1016770305760020;
 $attachment_id2=625819325049860;
